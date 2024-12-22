@@ -1,0 +1,38 @@
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\bin\Debug\LINQ-querries.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\bin\Debug\LINQ-querries.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.csproj.AssemblyReference.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ_querries.Properties.Resources.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.csproj.GenerateResource.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.csproj.CoreCompileInputs.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ_querries.MainForm.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\bin\Debug\RoomOptions.csv
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\bin\Debug\Rooms.csv
+C:\Users\itrot\OneDrive\Рабочий стол\Репство\Евгений (артемкин друг)\LINQ-querries\bin\Debug\RegularCustomers.csv
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\RegularCustomers.csv
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\Rooms.csv
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\RoomOptions.csv
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\LINQ-querries.exe
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\LINQ-querries.pdb
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.csproj.AssemblyReference.cache
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ_querries.MainForm.resources
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ_querries.Properties.Resources.resources
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.csproj.GenerateResource.cache
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.csproj.CoreCompileInputs.cache
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.exe
+C:\GitHub\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\RegularCustomers.csv
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\Rooms.csv
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\RoomOptions.csv
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\LINQ-querries.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\bin\Debug\LINQ-querries.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ_querries.ChangeRooms.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ_querries.FormBook.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ_querries.FormChangeOptions.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ_querries.MainForm.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ_querries.Properties.Resources.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.csproj.GenerateResource.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.csproj.CoreCompileInputs.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\LINQ-querries\obj\Debug\LINQ-querries.pdb
