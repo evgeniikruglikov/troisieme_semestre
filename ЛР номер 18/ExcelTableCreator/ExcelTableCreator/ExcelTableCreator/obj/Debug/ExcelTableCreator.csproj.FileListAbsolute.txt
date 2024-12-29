@@ -1,0 +1,25 @@
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.csproj.AssemblyReference.cache
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.csproj.ResolveComReference.cache
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.MainForm.resources
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.Properties.Resources.resources
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.csproj.GenerateResource.cache
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.csproj.CoreCompileInputs.cache
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\bin\Debug\ExcelTableCreator.exe
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\bin\Debug\ExcelTableCreator.pdb
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.exe
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.pdb
+C:\Users\itrot\source\repos\ExcelTableCreator\ExcelTableCreator\bin\Debug\Data.csv
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\bin\Debug\Data.csv
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\bin\Debug\ExcelTableCreator.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\bin\Debug\ExcelTableCreator.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.csproj.AssemblyReference.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.csproj.ResolveComReference.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.MainForm.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.Properties.Resources.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.csproj.GenerateResource.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.csproj.CoreCompileInputs.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTableCreator.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\bin\Debug\ExcelAlphabet.dll
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\bin\Debug\ExcelAlphabet.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelTableCreator\ExcelTableCreator\ExcelTableCreator\obj\Debug\ExcelTab.34E08114.Up2Date

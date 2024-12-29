@@ -1,0 +1,6 @@
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelAlphabet\bin\Debug\ExcelAlphabet.dll
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelAlphabet\bin\Debug\ExcelAlphabet.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelAlphabet\obj\Debug\ExcelAlphabet.csproj.AssemblyReference.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelAlphabet\obj\Debug\ExcelAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelAlphabet\obj\Debug\ExcelAlphabet.dll
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\ExcelAlphabet\obj\Debug\ExcelAlphabet.pdb
