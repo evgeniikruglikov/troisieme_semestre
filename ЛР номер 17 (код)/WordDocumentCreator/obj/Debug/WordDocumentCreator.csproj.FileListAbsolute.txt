@@ -1,0 +1,16 @@
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\bin\Debug\WordDocumentCreator.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\bin\Debug\WordDocumentCreator.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.AssemblyReference.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.ResolveComReference.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\obj\Debug\WordDocumentCreator.Properties.Resources.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.GenerateResource.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.CoreCompileInputs.cache
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\obj\Debug\WordDocumentCreator.exe
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\obj\Debug\WordDocumentCreator.pdb
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\obj\Debug\WordDocumentCreator.MainForm.resources
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\bin\Debug\Previews\Doc.png
+C:\Users\itrot\OneDrive\Рабочий стол\Rap-vo\Евгений (артемкин друг)\WordDocumentCreator\bin\Debug\Previews\Title.png
+C:\Users\Кругликов Евгений\Desktop\ПиОА\ЛР номер 17 (код)\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.AssemblyReference.cache
+C:\Users\Кругликов Евгений\Desktop\ПиОА\ЛР номер 17 (код)\WordDocumentCreator\obj\Debug\WordDocumentCreator.csproj.ResolveComReference.cache
+C:\Users\Кругликов Евгений\Desktop\ПиОА\ЛР номер 17 (код)\WordDocumentCreator\obj\Debug\WordDocumentCreator.exe
+C:\Users\Кругликов Евгений\Desktop\ПиОА\ЛР номер 17 (код)\WordDocumentCreator\obj\Debug\WordDocumentCreator.pdb
